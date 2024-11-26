@@ -3,6 +3,9 @@
 The Libft project was a significant milestone in my journey as a programmer. It involved building a custom library of functions from scratch, mirroring some of the standard C library functions and creating additional utilities. This project was more than just coding—it was about learning, discipline, and understanding the foundational tools that make C programming so powerful.
 <br>
 <br>
+<img src="https://github.com/paprzyby/paprzyby/blob/main/C%20Library.png"
+        width="750" 
+       height="350" />
 <h2>The project required me to implement:</h2>
 - Recreations of Standard C Functions: I developed my versions of functions like strlen, memset, isdigit, strchr, and more. Each function was prefixed with ft_ to avoid conflicts with the standard library, and they adhered strictly to the behavior described in the C manual pages.
 <br>
