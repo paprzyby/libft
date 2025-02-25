@@ -3,19 +3,16 @@ The Libft project was a significant milestone in my journey as a programmer. It 
 <br>
 <br>
 <h2>What did I have to implement?</h2>
-- Recreations of Standard C Functions: I developed my versions of functions like strlen, memset, isdigit, strchr, and more. Each function was prefixed with ft_ to avoid conflicts with the standard library, and they adhered strictly to the behavior described in the C manual pages.
+- Recreations of Standard C Functions
 <br>
 <br>
-- Dynamic Memory Functions: Using malloc, I implemented functions like ft_calloc and ft_strdup, which required me to understand memory management deeply.
+- Dynamic Memory Functions
 <br>
 <br>
-- String and Memory Manipulation Utilities: Functions like ft_substr, ft_strjoin, and ft_split pushed me to think creatively about handling strings and arrays in C.
+- String and Memory Manipulation Utilities
 <br>
 <br>
-- Output Functions: I worked on functions like ft_putchar_fd and ft_putstr_fd to manage output using file descriptors, a low-level I/O concept in C.
-<br>
-<br>
-- Bonus Part: Once the mandatory part was complete, I tackled linked list manipulation. This introduced me to working with dynamic data structures and recursion to implement functions like ft_lstmap and ft_lstiter.
+- Output Functions
 <br>
 <br>
 <h2>What did I learn?</h2>
