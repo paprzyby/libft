@@ -2,19 +2,6 @@
 The Libft project was a significant milestone in my journey as a programmer. It involved building a custom library of functions from scratch, mirroring some of the standard C library functions and creating additional utilities. This project was more than just coding - it was about learning, discipline, and understanding the foundational tools that make C programming so powerful.
 <br>
 <br>
-<h2>What did I have to implement?</h2>
-- Recreations of Standard C Functions
-<br>
-<br>
-- Dynamic Memory Functions
-<br>
-<br>
-- String and Memory Manipulation Utilities
-<br>
-<br>
-- Output Functions
-<br>
-<br>
 <h2>What did I learn?</h2>
 - C Fundamentals Revisited:
 Writing these functions from scratch solidified my understanding of pointers, arrays, and memory management. Concepts like pointer arithmetic and the nuances of const qualifiers became second nature through repeated practice.
@@ -50,5 +37,5 @@ Personal Takeaways
 <br>
 <br>
 <h2>Summary</h2>
-Libft was more than just a coding challenge; it was a lesson in self-reliance and attention to detail. Without relying on external libraries, I learned to solve problems from the ground up. This project has made me more confident in my ability to understand and build the tools I need for any task. It also taught me the value of perseverance, as debugging and testing each function required patience and determination.
+Without relying on external libraries, I learned to solve problems from the ground up. This project has made me more confident in my ability to understand and build the tools I need for any task. It also taught me the value of perseverance, as debugging and testing each function required patience and determination.
 In summary, Libft was a foundational experience that strengthened my programming skills and prepared me for more complex challenges ahead. It was my first step into creating something both functional and personal—a toolkit I will carry with me throughout my coding journey.
